@@ -13,7 +13,7 @@
 
 <!-- this is my github stats link to update the readme url: https://github-readme-stats.vercel.app/api?username=MRNIKO1&theme=blue-green-->
 
-[Mr.Niko's Github Stats](https://github-readme-stats.vercel.app/api?username=MRNIKO1&theme=blue-green)
+[!(https://github-readme-stats.vercel.app/api?username=MRNIKO1&theme=blue-green)]
 
 [HackTheWorld](https://tryhackme-badges.s3.amazonaws.com/Mr.Niko.png)
 
