@@ -20,5 +20,3 @@
 ![Mr.Niko's Github Stats](https://github-readme-stats.vercel.app/api?username=MRNIKO1&theme=blue-green)
 
 ![HackTheWorld](https://tryhackme-badges.s3.amazonaws.com/Mr.Niko.png)
-
-![HackTheBox](https://app.hackthebox.com/profile/395671)
