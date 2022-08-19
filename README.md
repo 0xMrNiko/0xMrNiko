@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/_MrNiko" target="blank"><img src="https://img.shields.io/twitter/follow/_MrNiko?logo=twitter&style=for-the-badge" alt="_MrNiko" /></a> </p>
 
-- 👋 Hi, I’m @MRNIKO1
+- 👋 Hi, I’m @0xMrNiko
 - 👀 I’m interested in Windows exploitation
 - 🌱 I’m currently learning every thing in windows 
 - 💞️ I’m looking to collaborate on some project & Tool development
