@@ -8,7 +8,10 @@
 
 **Hello There! My Name is Mr.Niko and I am a Red Teamer, Penetration Tester.**
 
-<p align="left"> <a href="https://twitter.com/_MrNiko" target="blank"><img src="https://img.shields.io/twitter/follow/_MrNiko?logo=twitter&style=for-the-badge" alt="_MrNiko" /></a> </p>
+<p align="center">
+    <a href="https://twitter.com/_MrNiko"><img src="https://img.shields.io/twitter/follow/itm4n?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
+    <a href="https://github.com/0xMrNiko"><img src="https://img.shields.io/github/followers/itm4n?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
+</p>
 
 - 👋 Hi, I’m @0xMrNiko
 - 👀 I’m interested in Windows exploitation
