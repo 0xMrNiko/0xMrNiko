@@ -1,5 +1,7 @@
 # Hello World!!!
 
+<p align="left"> <a href="https://twitter.com/_MrNiko" target="blank"><img src="https://img.shields.io/twitter/follow/_MrNiko?logo=twitter&style=for-the-badge" alt="_MrNiko" /></a> </p>
+
 ![giphy](https://c.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif)
 
 **Hello There! My Name is Mr.Niko and I am a Red Teamer, Penetration Tester.**
