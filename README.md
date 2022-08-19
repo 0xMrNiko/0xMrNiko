@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_MrNiko" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="MrNiko" height="30" width="40" /></a>
+<a href="https://discord.com/users/795326240285917234" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a>
 
 <!-- this is my github stats link to update the readme url: https://github-readme-stats.vercel.app/api?username=MRNIKO1&theme=blue-green-->
 
