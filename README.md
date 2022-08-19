@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xMrNiko" alt="MrNiko" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_MrNiko" target="blank"><img src="https://img.shields.io/twitter/follow/_MrNiko?logo=twitter&style=for-the-badge" alt="_MrNiko" /></a> </p>
-
 ![giphy](https://c.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif)
 
 **Hello There! My Name is Mr.Niko and I am a Red Teamer, Penetration Tester.**
+
+<p align="left"> <a href="https://twitter.com/_MrNiko" target="blank"><img src="https://img.shields.io/twitter/follow/_MrNiko?logo=twitter&style=for-the-badge" alt="_MrNiko" /></a> </p>
 
 - 👋 Hi, I’m @MRNIKO1
 - 👀 I’m interested in Windows exploitation
