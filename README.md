@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xMrNiko" alt="MrNiko" /></a> </p>
 
+<p align="left"> <img src="https://app.hackthebox.com/profile/395671" alt="Hack The Box"> </p>
+
 **Hello There! My Name is Mr.Niko and I am a Red Teamer, Penetration Tester.**
 
 <p align="center">
