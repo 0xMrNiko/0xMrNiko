@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It's Me Mr.Niko</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMrNiko&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="exploitblizzard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMrNiko&label=Profile%20views&color=0e75b6&style=for-the-badge&logoColor=ffffff&labelColor=1a1a1a&color=802000" alt="exploitblizzard" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xMrNiko" alt="MrNiko" /></a> </p>
 
