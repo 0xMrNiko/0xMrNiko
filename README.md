@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMrNiko&label=Profile%20views&color=0e75b6&style=for-the-badge&logoColor=ffffff&labelColor=1a1a1a&color=802000" alt="@_MrNiko" /> </p>
 
-#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xMrNiko" alt="MrNiko" /></a> #</p>
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xMrNiko" alt="MrNiko" /></a> </p>
 
 **Hello There! My Name is Mr.Niko and I am a Red Teamer, Penetration Tester.**
 
@@ -32,6 +30,4 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xMrNiko&theme=blue-green" alt="Mr.Niko" /></p>
 
-![HackTheWorld](https://tryhackme-badges.s3.amazonaws.com/Mr.Niko.png) <img src="https://app.hackthebox.com/profile/395671" alt="HackTheBox">
-
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+![HackTheWorld](https://tryhackme-badges.s3.amazonaws.com/Mr.Niko.png)
