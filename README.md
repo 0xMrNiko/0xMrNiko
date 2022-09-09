@@ -30,4 +30,5 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xMrNiko&theme=blue-green" alt="Mr.Niko" /></p>
 
-<script src="https://tryhackme.com/badge/167117"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Niko.png" alt="TryHackMe">
+
