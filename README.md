@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, It's Me Mr.Niko</h1>
 
+<a href="https://twitter.com/_MrNiko" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://github.com/0xMrNiko" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMrNiko&label=Profile%20views&color=0e75b6&style=for-the-badge&logoColor=ffffff&labelColor=1a1a1a&color=802000" alt="@_MrNiko" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xMrNiko&theme=onedark" alt="MrNiko" /></a> </p>
