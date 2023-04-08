@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning every thing in windows 
 - 💞️ I’m looking to collaborate on some project & Tool development
 - 📫 How to reach me -> Twitter: https://twitter.com/_MrNiko
-- 😋 Discord ID : Mr.Niko#0975
+- 😋 Discord ID : 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
