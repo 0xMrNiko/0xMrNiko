@@ -30,7 +30,7 @@
 - ⚡ Advent-of-Cyber-2022 from TryHackMe
 - ⚡ eLearnSecurity Junior Penetration Tester (eJPT) in 2021
 - ⚡ Advent-of-Cyber-2021 from TryHackMe
-- 
+  
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 <h3 align="left">Connect with me:</h3>
