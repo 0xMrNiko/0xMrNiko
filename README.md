@@ -20,7 +20,7 @@
 - 👀 I’m interested in Windows exploitation
 - 🌱 I’m currently learning every thing in windows 
 - 💞️ I’m looking to collaborate on some project & Tool development
-- 📫 How to reach me -> Twitter: https://twitter.com/_MrNiko
+- 📫 How to reach me **ap7737586@gmail.com**
 - 😋 Discord ID : notmr.niko
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
