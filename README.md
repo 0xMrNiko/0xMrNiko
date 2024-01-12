@@ -23,6 +23,16 @@
 - 📫 How to reach me -> Twitter: https://twitter.com/_MrNiko
 - 😋 Discord ID : notmr.niko
 
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+
+# Certifications
+- ⚡ Advent-of-Cyber-2023 from TryHackMe
+- ⚡ Advent-of-Cyber-2022 from TryHackMe
+- ⚡ eLearnSecurity Junior Penetration Tester (eJPT) in 2021
+- ⚡ Advent-of-Cyber-2021 from TryHackMe
+- 
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_MrNiko" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="MrNiko" height="30" width="40" /></a>
