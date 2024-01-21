@@ -30,7 +30,7 @@
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
-# Certifications
+# Certifications & Achievement
 - ⚡ Postman API Fundamentals Student Expert Certification (2024)
 - ⚡ Advent-of-Cyber-2023 from TryHackMe
 - ⚡ Advent-of-Cyber-2022 from TryHackMe
