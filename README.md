@@ -22,8 +22,7 @@
 </p>
 
 - 👋 Hi, I’m @0xMrNiko
-- 👀 I’m interested in Windows exploitation
-- 🌱 I’m currently learning every thing in windows 
+- 👀 I’m interested in Red Teaming
 - 💞️ I’m looking to collaborate on some project & Tool development
 - 📫 How to reach me **ap7737586@gmail.com**
 - 😋 Discord ID : notmr.niko
