@@ -32,6 +32,7 @@
 # Certifications & Achievement
 - ⚡ Joined Infosec Writeups as a Newsletter Writer. (2024)
 - ⚡ Postman API Fundamentals Student Expert Certification (2024)
+- ⚡ Achieved the rank #2 in Infosec Writeups CTF 2023
 - ⚡ Advent-of-Cyber-2023 from TryHackMe
 - ⚡ Advent-of-Cyber-2022 from TryHackMe
 - ⚡ eLearnSecurity Junior Penetration Tester (eJPT) in 2021
