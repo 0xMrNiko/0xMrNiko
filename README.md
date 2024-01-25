@@ -57,5 +57,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xMrNiko&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false" alt="Mr.Niko" /></p>
 
+
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+# Profiles
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Niko.png" alt="TryHackMe"> <img src="https://www.hackthebox.com/badge/image/395671" alt="HackTheBox">
 
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
