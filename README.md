@@ -32,7 +32,7 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Certifications & Achievement
-- ⚡ Joined Infosec Writeups as a Newsletter Writer. (2024)
+- ⚡ Joined Infosec Writeups as Ambassador. (2024)
 - ⚡ Postman API Fundamentals Student Expert Certification (2024)
 - ⚡ Achieved the rank #2 in Infosec Writeups CTF 2023
 - ⚡ Advent-of-Cyber-2023 from TryHackMe
