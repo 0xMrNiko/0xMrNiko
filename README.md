@@ -12,8 +12,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMrNiko&label=Profile%20views&color=0e75b6&style=for-the-badge&logoColor=ffffff&labelColor=1a1a1a&color=802000" alt="@_MrNiko" /> </p>
 
-![giphy](https://c.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif)
-
 **Hello There! My Name is Mr.Niko and I am a Red Teamer, Penetration Tester.**
 
 <p align="center">
