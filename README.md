@@ -75,5 +75,5 @@
 
  ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
-`math
+```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/LockBit_3.0_logo.png/220px-LockBit_3.0_logo.png');]{x0000}$}
