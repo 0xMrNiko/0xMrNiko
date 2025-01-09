@@ -68,9 +68,3 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Niko.png" alt="TryHackMe"> <img src="https://www.hackthebox.com/badge/image/395671" alt="HackTheBox">
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
-
-# Donate
-
- ⟠ ETH:- 0x7cf3D45e09Cad60edC43e3963A7ff6C4db660E08
-
- ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
