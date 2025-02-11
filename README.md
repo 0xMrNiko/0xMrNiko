@@ -15,7 +15,7 @@
 **Hello There! My Name is Mr.Niko and I am a Red Teamer, Penetration Tester.**
 
 <p align="center">
-    <a href="https://twitter.com/_MrNiko"><img src="https://img.shields.io/twitter/follow/_MrNiko?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
+    <a href="https://x.com/_MrNiko"><img src="https://img.shields.io/twitter/follow/_MrNiko?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
     <a href="https://github.com/0xMrNiko"><img src="https://img.shields.io/github/followers/0xMrNiko?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
 </p>
 
