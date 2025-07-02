@@ -7,9 +7,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true?font=Roboto+Mono&pause=500&color=F19A04&random=false&width=435&lines=Thanks+For+Stopping+By!;Red+Teamer%2C+CTF+Player;%40_MrNiko" alt="Typing SVG" /></a>
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xmrniko&theme=juicyfresh" alt="0xmrniko" /></a> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMrNiko&label=Profile%20views&color=0e75b6&style=for-the-badge&logoColor=ffffff&labelColor=1a1a1a&color=802000" alt="@_MrNiko" /> </p>
 
 **Hello There! My Name is Mr.Niko and I am a Red Teamer, Penetration Tester.**
