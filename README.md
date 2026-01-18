@@ -16,15 +16,6 @@
     <a href="https://github.com/0xMrNiko"><img src="https://img.shields.io/github/followers/0xMrNiko?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
 </p>
 
-<!-- GitHub Timeline Embed -->
-<div id="gh-timeline"></div>
-<script src="https://www.githubtimeline.com/embed.js"
-        data-key="YOUR_API_KEY"
-        data-view="range"
-        data-theme="auto"
-        data-mode="interactive">
-</script>
-
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 - 👋 Hi, I’m @0xMrNiko
