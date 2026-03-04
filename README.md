@@ -27,13 +27,13 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Certifications & Achievement
+- ⚡ Offensive Security Certified Professional (OSCP) (2025)
+- ⚡ Discovered and published 4 CVEs: CVE-2025-3046 | CVE-2025-6208 | CVE-2025-5472 | CVE-2025-3108
 - ⚡ Burp Suite Certified Practitioner (BSCP) (2025).
 - ⚡ Achieved #6 rank on HackTheBox Global ranking (2024).
 - ⚡ Joined Infosec Writeups as Ambassador. (2024)
-- ⚡ Postman API Fundamentals Student Expert Certification (2024)
 - ⚡ Achieved the rank #2 in Infosec Writeups CTF 2023
 - ⚡ eLearnSecurity Junior Penetration Tester (eJPT) in 2021
-- ⚡ Advent-of-Cyber-2021 from TryHackMe
   
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
