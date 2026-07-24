@@ -1,66 +1,84 @@
-<h1 align="center">Hi 👋, It's Me Mr.Niko</h1>
-
-<a href="https://twitter.com/_MrNiko" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://github.com/0xMrNiko" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true?font=Roboto+Mono&pause=500&color=F19A04&random=false&width=435&lines=Thanks+For+Stopping+By!;Red+Teamer%2C+CTF+Player;%40_MrNiko" alt="Typing SVG" /></a>
+  <img src="assets/chill.gif" width="100%" alt="Room animation">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMrNiko&label=Profile%20views&color=0e75b6&style=for-the-badge&logoColor=ffffff&labelColor=1a1a1a&color=802000" alt="@_MrNiko" /> </p>
-
-**Hello There! My Name is Mr.Niko and I am a Red Teamer, Penetration Tester.**
+<h1 align="center">
+  👋 Hi, I'm <b>Mr.Niko</b>
+</h1>
 
 <p align="center">
-    <a href="https://x.com/_MrNiko"><img src="https://img.shields.io/twitter/follow/_MrNiko?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
-    <a href="https://github.com/0xMrNiko"><img src="https://img.shields.io/github/followers/0xMrNiko?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
+  Offensive Security • Web Application Security • Cloud Security • Binary Exploitation
 </p>
 
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+<p align="center">
+  <a href="https://github.com/0xMrNiko">
+    <img src="https://img.shields.io/github/followers/0xMrNiko?style=social" alt="GitHub Followers">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/_MrNiko">
+    <img src="https://img.shields.io/twitter/url/https/x.com/_MrNiko.svg?style=social&label=Follow%20%40_MrNiko" alt="Follow on X">
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=0xMrNiko&label=Profile%20Views&style=flat-square&color=7c3aed" alt="Profile Views">
+</p>
 
-- 👋 Hi, I’m @0xMrNiko
-- 👀 I’m interested in Red Teaming
-- 💞️ I’m looking to collaborate on some project & Tool development
-- 📫 How to reach me **ap7737586@gmail.com**
-- 😋 Discord ID : notmr.niko
+<p align="center">
+  <img src="https://img.shields.io/badge/OSCP-2025-CC0000?style=for-the-badge" alt="OSCP">
+  <img src="https://img.shields.io/badge/BSCP-2025-F57C00?style=for-the-badge" alt="BSCP">
+  <img src="https://img.shields.io/badge/HTB-Rank%20%236-00C853?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB Rank">
+  <img src="https://img.shields.io/badge/CVEs-4-6A1B9A?style=for-the-badge" alt="CVEs">
+</p>
 
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=22&pause=1000&color=F19A04&center=true&vCenter=true&width=850&lines=Red+Teamer+%7C+Security+Researcher;Exploit+Developer+%7C+Vulnerability+Hunter;OSCP+%7C+BSCP+%7C+Top+Hack+The+Box+Player;Breaking+Things+To+Make+Them+Safer+%F0%9F%94%A5" alt="Typing SVG">
+</p>
 
-# Certifications & Achievement
-- ⚡ Offensive Security Certified Professional (OSCP) (2025)
-- ⚡ Discovered and published 4 CVEs: CVE-2025-3046 | CVE-2025-6208 | CVE-2025-5472 | CVE-2025-3108
-- ⚡ Burp Suite Certified Practitioner (BSCP) (2025).
-- ⚡ Achieved #6 rank on HackTheBox Global ranking (2024).
-- ⚡ Joined Infosec Writeups as Ambassador. (2024)
-- ⚡ Achieved the rank #2 in Infosec Writeups CTF 2023
-- ⚡ eLearnSecurity Junior Penetration Tester (eJPT) in 2021
-  
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+  ## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_MrNiko" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="MrNiko" height="30" width="40" /></a>
-<a href="https://discord.com/users/795326240285917234" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a>
-
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
-
-<!-- this is my github stats link to update the readme url: https://github-readme-stats.vercel.app/api?username=MRNIKO1&theme=blue-green-->
-
-<h3 align="left">Languages and Tools:</h3>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cobaltstrike.com/" target="_blank" rel="noreferrer"> <img src="https://i.ytimg.com/vi/75poanoxO9o/hqdefault.jpg" alt="Cobalt-Strike" width="50" height="40"/> </a> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferror"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="40" height="40"/> </a> <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+  - Red Teaming and offensive security researcher.
+  - Interested in exploit development, Active Directory, web security, fuzzing, and vulnerability research.
+  - Published vulnerability research and reported multiple CVEs.
+  - Open to collaboration on security tools, research, labs, and CTF projects.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmrniko&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false" alt="0xmrniko" /></p>
+  ## CVEs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xMrNiko&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false" alt="Mr.Niko" /></p>
+  - CVE-2025-3046
+  - CVE-2025-6208
+  - CVE-2025-5472
+  - CVE-2025-3108
 
 
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
-# Profiles
+  ## Focus Areas
+  Red Teaming           Active Directory        Web Security
+  Exploit Development   Fuzzing                 Cloud Security
+  Malware Analysis      Reverse Engineering     CTFs
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Niko.png" alt="TryHackMe"> <img src="https://www.hackthebox.com/badge/image/395671" alt="HackTheBox">
 
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+  ## GitHub Stats
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xMrNiko&theme=tokyonight" alt="GitHub profile
+    summary" />
+  </p>
+
+  <p align="center">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xMrNiko&theme=tokyonight" alt="Repos per
+    language" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xMrNiko&theme=tokyonight" alt="GitHub stats" />
+  </p>
+
+  ---
+
+  ## Contact
+
+  - X: [@_MrNiko](https://x.com/_MrNiko)
+  - Discord: `notmr.niko`
+  - Email: `ap7737586@gmail.com`
+
+  ---
+
+  <p align="center">
+    <b>Thanks for stopping by.</b><br>
+    <i>Hack. Learn. Report. Improve.</i>
+  </p>
