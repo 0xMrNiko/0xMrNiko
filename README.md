@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=22&pause=1000&color=F19A04&center=true&vCenter=true&width=850&lines=Red+Teamer+%7C+Security+Researcher;Exploit+Developer+%7C+Vulnerability+Hunter;OSCP+%7C+BSCP+%7C+Top+Hack+The+Box+Player;Breaking+Things+To+Make+Them+Safer+%F0%9F%94%A5" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=22&pause=1000&color=F19A04&center=true&vCenter=true&width=850&lines=Red+Teamer+%7C+Security+Researcher;Exploit+Developer+%7C+Vulnerability+Hunter;OSCP+%7C+BSCP+%7C+Top+Hack+The+Box+Player;Breaking+Things+To+Make+Them+Safer" alt="Typing SVG">
 </p>
 
   ## About Me
