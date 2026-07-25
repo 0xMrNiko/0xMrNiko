@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/chill.gif" width="100%" alt="Room animation">
+  <img src="assets/car.gif" width="100%" alt="Room animation">
 </p>
 
 <h1 align="center">
